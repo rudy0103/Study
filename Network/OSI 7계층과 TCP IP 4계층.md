@@ -66,7 +66,7 @@ OSI 모델은 하드웨어나 소프트웨어 기반의 논리적인 변화에 �
     
     TCP/IP는 OSI와 같은 계층적 구조를 갖는 모델이지만 좀 더 단순화되고 실질적인? 모델이다.
     
-    ![Untitled](image/OSI 7계층과 TCP IP 4계층/Untitled.png)
+    ![Untitled](image/network/1.png)
     
     그림을 보면 5 계층으로 나와있는데 일반적으로 1,2 계층을 묶어 데이터 링크 계층으로 본다.
     
