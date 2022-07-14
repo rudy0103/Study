@@ -71,7 +71,7 @@ IP가 사용하는 패킷을 데이터그램 이라고 한다.
 
 Version: ip의 버전을 의미 Ipv4는 4의 값을 가짐
 
-Header Length: IPv4의 가변 헤더 길이를 표시함 4비트 0~15 인데 *4 을 해서 0~60 byte를 표시
+Header Length: IPv4의 가변 헤더 길이를 표시함 4비트 -> 0~15 인데 4를 곱해서 0~60 byte를 표시
 
 Type of Service: 데이터그램이 라우터에 의해 어떻게 처리되어야 하는지 알려줌
 
